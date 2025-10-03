@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello, Emil(he/him) here 👋
+
+[![Resume](https://img.shields.io/badge/RESUME-2E8B57?style=for-the-badge&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/emilguz/))
 
 <!--
 **emguz/emguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+I'm a recent graduate from UC San Diego with a BS in Computer Engineering and a minor in Physics. I've specifically focused on embedded systems and FPGA development with a splash of ML/AI and edge AI.
