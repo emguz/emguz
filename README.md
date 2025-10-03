@@ -1,7 +1,7 @@
 ## Hello, Emil(he/him) here 👋
 
 [![Resume](https://img.shields.io/badge/RESUME-2E8B57?style=for-the-badge&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](EmilGuzman_Embedded.pdf)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](/EmilGuzman_Embedded.pdf)
 
 <!--
 **emguz/emguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
