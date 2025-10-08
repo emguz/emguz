@@ -1,4 +1,4 @@
-## Hello, Emil(he/him) here 👋
+## Hello, Emil here 👋
 
 [![Resume](https://img.shields.io/badge/RESUME-2E8B57?style=for-the-badge&logoColor=white)](EmilGuzman_Embedded.pdf)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilguz/)
